@@ -1,0 +1,53 @@
+#result-container {
+display: flex;
+flex: 1 1 0px;
+align-items: center;
+justify-content: center;
+}
+
+
+
+//#result-container {
+ // display: none;
+//}
+
+span {
+  display: flex;
+  justify-content: center
+}
+
+table {
+  background-color: green;
+  padding: 0.5rem;
+  flex: 1;
+  
+}
+
+#app-container {
+  display: flex;
+  max-width: 75%;
+  background: grey;
+  flex-direction: column;
+  margin: auto;
+}
+
+
+
+
+       img { 
+       max-width: 50%;
+            
+        } 
+
+button {
+  width: 100%;
+}
+
+tr {
+  width: 50%;
+  text-align: left;
+}
+
+#img-swap-buttons {
+  display: flex;
+}
