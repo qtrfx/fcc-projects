@@ -1,0 +1,22 @@
+body {
+  background: #721;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+#app-container {
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  background: #271;
+  border: 1px solid darkgreen;
+  box-shadow: 1010 black;
+}
+
+#check-btn {
+  margin-top: 1px;
+}
